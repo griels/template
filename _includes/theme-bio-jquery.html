@@ -21,7 +21,7 @@ my_resume=document.querySelector('div[id="my_resume"]');
 			data: JSON.stringify({resume: data}, null, "  "),
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
-				my_resume.innerHtml=html;
+				my_resume.innerHTML=html;
 			}
 		});
 	});
