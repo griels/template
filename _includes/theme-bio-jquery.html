@@ -4,12 +4,12 @@
 
 </div>
 <div id="my_resume" style="margin-bottom: 20px;height: 100%;width: 100%;" class="ui stackable grid container">
-<iframe id="jsonresumeframe" src="about:blank" style="height: 100%;width: 100%;"></iframe>
 </div>
+<iframe id="jsonresumeframe" src="about:blank" style="height: 100%;width: 100%;"></iframe>
 	
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
-my_resume=document.querySelector("div[id='my_resume'] iframe").contentWindow.document;
+my_resume=document.querySelector('iframe[id="jsonresumeframe"]').contentWindow.document;
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
 	if (hash != "") {
