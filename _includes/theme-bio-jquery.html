@@ -5,11 +5,10 @@
 </div>
 <div id="my_resume" style="margin-bottom: 20px;height: 100%;width: 100%;" class="ui stackable grid container">
 </div>
-<iframe id="jsonresumeframe" src="about:blank" style="height: 100%;width: 100%;"></iframe>
 	
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
-my_resume=document.querySelector('iframe[id="jsonresumeframe"]').contentWindow.document;
+my_resume=document.querySelector('div[id="my_resume"]');
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
 	if (hash != "") {
@@ -22,9 +21,7 @@ my_resume=document.querySelector('iframe[id="jsonresumeframe"]').contentWindow.d
 			data: JSON.stringify({resume: data}, null, "  "),
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
-				my_resume.open();
-				my_resume.write(html);
-				my_resume.close();
+				my_resume.innerHtml=html;
 			}
 		});
 	});
