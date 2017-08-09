@@ -4,11 +4,13 @@
 
 </div>
 <div id="my_resume" style="margin-bottom: 20px"></div>
+{% page.jsonresumeurl=  https://themes.jsonresume.org/{{ site.theme-name }} %}
+	
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
-my_resume=document.getElementById("my_resume")
+<iframe name="jsonresumeframe" src="about:blank"></iframe>
+my_resume=document.getElementById("jsonresumeframe").contentWindow.document
 $(my_resume).ready(function($) {
-
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
 	if (hash != "") {
@@ -21,7 +23,7 @@ $(my_resume).ready(function($) {
 			data: JSON.stringify({resume: data}, null, "  "),
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
-				my_resume.innerHTML=html;
+				my_resume.write(html);
 			}
 		});
 	});
