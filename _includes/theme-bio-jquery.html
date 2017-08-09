@@ -3,12 +3,13 @@
 
 
 </div>
-<div id="my_resume" style="margin-bottom: 20px"></div>
-<iframe id="jsonresumeframe" src="about:blank"></iframe>
+<div id="my_resume" style="margin-bottom: 20px">
+<iframe id="jsonresumeframe" src="about:blank" height="100%" width="100%"></iframe>
+</div>
 	
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
-my_resume=document.getElementById("jsonresumeframe").contentWindow.document;
+my_resume=document.getElementById("my_resume").getElementById("jsonresumeframe").contentWindow.document;
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
 	if (hash != "") {
