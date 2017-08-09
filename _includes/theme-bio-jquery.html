@@ -9,7 +9,7 @@
 		if (hash != "") {
 			theme = hash.replace("#", "");
 		}
-		$.getJSON("json/resume.json", function(data) {
+		$.getJSON("_data/bio.json", function(data) {
 			$.ajax({
 				type: "POST",
 				contentType: "application/json",
