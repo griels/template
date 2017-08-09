@@ -4,9 +4,8 @@
 	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 	<script>
 	$(document).ready(function($) {
-		var autotheme={{ site.theme-home }}
 
-		var theme = "slicker";
+		var theme = {{ site.theme-name }};
 		var hash = window.location.hash;
 		if (hash != "") {
 			theme = hash.replace("#", "");
