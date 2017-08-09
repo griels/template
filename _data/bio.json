@@ -1,169 +1,363 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Ellis Breen",
+    "email": "ellis.breen@gmail.com",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": "",
+      "picture": "../../capdecolla/14463938/png/dark_logo_transparent@2x.png"
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
+    "profiles": []
   },
-  "interests": [
+  "work": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
+      "company": "CapDeColla",
+      "website": "https://capdecolla.com",
+      "position": "Research and development",
+      "startDate": "2016-09-01",
+      "endDate": "",
+      "summary": "Working on a cutting-edge realtime SaaS proof-of-concept for potential licensing/startup creation.",
+      "highlights": [
+        "Studying Data Science/Machine Learning/NLP",
+        "Learning Xamarin, iOS and Android development",
+        "AWS, Google Cloud and Azure Platform",
+        "NumPy, SciPy and scikit-learn"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
+      "company": "Self",
+      "website": "",
+      "position": "Full Time Carer/Estate Executor",
+      "startDate": "2016-04-01",
+      "endDate": "2017-01-01",
+      "summary": "Looking after my late mother and acting as an executor of her estate. Performed clearance and sale of property.",
+      "highlights": []
+    },
+    {
+      "company": "Nuance Communications",
+      "website": "https://www.nuance.com",
+      "position": "Senior Software Engineer",
+      "startDate": "2012-10-01",
+      "endDate": "2015-12-01",
+      "summary": "Working for Nuance as a C++/Java/Python software developer and NLP research assistant.",
+      "highlights": [
+        "Developed tools for VoiceMail to Text (VM2T) research/professional services teams, to automate/streamline the service. Refactored complex legacy code to improve maintainability and readability.",
+        "Ported complex legacy C++ project to a highly performant, maintainable and reliable Java component, processing several million Voicemail messages daily.",
+        "Extended, updated and documented (internally with XSDDoc annotations, and externally) existing XSD Schema to reflect refactored configuration files.",
+        "Used JAXB/Maven XJC plugins, wrote marshaller pool and collaborated on caching mechanism for XML serialisation",
+        "Used TDD, with JUnit, Hamcrest, and Mockito. Wrote comprehensive functional test suite using Java 8 features.",
+        "Configured Bamboo/Jenkins to build using Maven configuration.",
+        "Used custom Doclet extension for JavaDoc to produce attractive HTML/PDF XML file format documentation.",
+        "Integrated component into large-scale SOAP/XML-based distributed voicemail processing system; updated Spring based code to integrate new component/startup checks/functional tests",
+        "Used N-gram and RNN based models for selection/processing of appropriate text corpora in numerous languages/dialects.",
+        "Enhanced/systematised text normalisation configuration files for Language Modelling team, providing hugely increased coverage. Professional Services team reported significant resultant customer-perceived improvements in quality.",
+        "Rapidly developed Python code for various reporting, automation and processing jobs for VM2T to tight deadlines. Wrote structured OOP code based around existing formal APIs.",
+        "Mentored colleagues unfamiliar with coding to solve problems in Java and Python, using pair-programming/TDD approach.",
+        "Seconded to language modelling team, following Agile/Sprint methodology. Deep analysis of existing code-bases for text processing/parse-graph manipulation to formulate more data-driven, declarative approach.",
+        "Refactored hard-coded behaviour into an high performance embedded compiler and runtime for a DSL based on Finite State Transducers, which are well-understood and easily manipulable data structures.",
+        "Integrated this code into a system library which is used across many different Nuance products, including embedded devices such as mobile phones."
       ]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+      "company": "Aculab",
+      "website": "https://www.aculab.com",
+      "position": "Software Engineer (Prosody S/TiNG/Cloud/Media Server)",
+      "startDate": "2010-01-01",
+      "endDate": "2012-10-01",
+      "summary": "Software development, systems administration and testing.",
+      "highlights": [
+        "Designed and developed a test suite for a C# API library for a new high-level VoIP/IVR system, using idiomatic language constructs such as the IDisposable interface, thread pools, lambda functions, delegates, generics, parallel tasks, and interop functionality.",
+        "Implemented a counterpart Java API library for the same VoIP/IVR system, having set up a corresponding test suite/documentation system, using JUnit, JavaDoc, Ant and Eclipse and the Jenkins Continuous Integration platform, running on Apache Tomcat. ",
+        "Wrote doclet code to generate XML and JavaScript/JQuery code to process this output into documentation web pages for the API. ",
+        "Authored Maven build configuration files for compilation, packaging, documentation, obfuscation (with ProGuard) and deployment.",
+        "Employed a test-driven development approach from the outset, ensuring correct behaviour throughout the evolution of the library. ",
+        "Modified and ported YAJSW (Yet Another Java Service Wrapper) to the Maven Build system to facilitate cross platform service installation for the UAS Launcher (for running Aculab Cloud applications). ",
+        "Created an automated MSI packaging process using WiX and the maven-wix-plugin.",
+        "Coordinated development roles within our test framework software, ensuring interface changes were correctly addressed by affected developers. ",
+        "Wrote test specs (using UML and other notation) and reports. An interest in formal methods and expressive, readable code has resulted in thorough, easy to maintain tests which help to ensure that Aculab’s telecommunications products remain robust."
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "company": "Aculab",
+      "website": "https://www.aculab.com",
+      "position": "Software Engineer (Prosody S/TiNG)",
+      "startDate": "2006-01-01",
+      "endDate": "2012-10-01",
+      "summary": "Developing and maintaining test software for Aculab’s Prosody S/X speech processing/VoIP software/hardware, in a cross-platform (Linux/Windows) environment. Primarily using C++ in this role, employing VC6-VC2010 for authoring, with a Cygwin-based cross-platform build system and CVS. Involved extending and maintaining a highly object-oriented framework,consisting of VoIP/speech test case/scenario and foundation classes and templates (reused throughout the framework), designed to minimise the amount of coupling between components while being easy and intuitive to build upon. Made extensive usage of the STL (containers and algorithms).Administering a Buildbot (http://www.buildbot.net ) installation consisting of numerous Buildbot masters and slaves on Linux/Windows. This is used to build and run automatedtests and track results. Writing and maintaining numerous Perl/Python enhancements. Received training in a range of telecommunications subjects, including ISDN and VoIP protocols, as well as configuration/development APIs for Aculab products. Also familiarised with the configuration and installation of Aculab products on the Linux platform, building on existing expertise in this area.Took the initiative in the design of the tests, and also the configuration of Buildbot itself. An interest in declarative programming and Domain Specific Languages led to the design and production of a constraint-modelling library to facilitate the automatic generation of coverage test scenarios. A passion for lexical analysis and parsing encouraged the authoring of a number of tools for processing trace to ease the identification of issues, which led to an investigation of the Boost::Spirit parsing library - a template metaprogramming based library which achieves high performance with expressive syntax. A fascination with concurrency and real-time systems led to the invention of a scheduling algorithm to enhance the throughput of regression tests.",
+      "highlights": []
+    },
+    {
+      "company": "Nuance Communications",
+      "website": "https://www.nuance.com",
+      "position": "Research Assistant",
+      "startDate": "2002-01-01",
+      "endDate": "2005-09-01",
+      "summary": "Assisted with the production and preparation of custom TTS voices for the Nuance Vocalizer product, as well as numerous computational linguistics and phonetics projects. Designed and implemented a system for the optimisation of scripts for voice talents with regards to coverage and storage requirements.Extensive use of Perl, C++, regular expressions, BASH scripting.",
+      "highlights": []
+    },
+    {
+      "company": "Segmentis",
+      "website": "",
+      "position": "Research Assistant",
+      "startDate": "1999-6-01",
+      "endDate": "1999-10-01",
+      "summary": "Exploring the uses of a novel image processing algorithm, using Photoshop and various scripting techniques.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of East Anglia",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": [],
+      "startDate": "1997-01-01",
+      "endDate": "2000-01-01",
+      "area": "",
+      "studyType": "BSc Hons"
+    },
+    {
+      "institution": "a1lab",
+      "gpa": "",
+      "courses": [],
+      "startDate": "2010-01-01",
+      "endDate": "2010-01-01",
+      "area": "",
+      "studyType": ""
+    },
+    {
+      "institution": "Norwich School",
+      "gpa": "",
+      "courses": [],
+      "startDate": "1988-01-01",
+      "endDate": "1994-01-01",
+      "area": "",
+      "studyType": ""
     }
   ],
-  "work": [
+  "skills": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+      "name": "C/C++",
+      "level": "80",
+      "keywords": [
+        "Boost Template Library",
+        "STL",
+        "Templates"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "name": "Java",
+      "level": "80",
+      "keywords": [
+        "Javadoc",
+        "Ant",
+        "Maven",
+        "JAXB",
+        "Spring",
+        "Java 8",
+        "Streams",
+        "Functional"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "name": "C#",
+      "level": "",
+      "keywords": [
+        "C# Native Interoperability",
+        "LINQ"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "75",
+      "keywords": [
+        "Perl",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Concurrency",
+      "level": "80",
+      "keywords": [
+        "Multithreading",
+        "Asynchronous Programming",
+        "Atomic Data Structures",
+        "Thread Synchronisation",
+        "Thread Pools",
+        "Messaging",
+        "State Management",
+        "Persistent Data Structures"
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "level": "75",
+      "keywords": [
+        "STL",
+        "Java Collections",
+        "Finite State Machines",
+        "Finite State Transducers",
+        "C++",
+        "Profiling"
+      ]
+    },
+    {
+      "name": "Profiling/Debugging",
+      "level": "80",
+      "keywords": [
+        "Valgrind",
+        "OProf",
+        "GProf",
+        "GDB",
+        "Eclipse CDT",
+        "CDB",
+        "GlowCode",
+        "Visual Studio"
+      ]
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "70",
+      "keywords": [
+        "JUnit",
+        "NUnit",
+        "Google Test",
+        "Hamcrest",
+        "Mockito"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "80",
+      "keywords": [
+        "Jenkins/Hudson",
+        "BuildBot",
+        "Bamboo"
+      ]
+    },
+    {
+      "name": "Unix",
+      "level": "80",
+      "keywords": [
+        "MacOS",
+        "Linux",
+        "BASH",
+        "Makefiles"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "70",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "SVN",
+        "Perforce",
+        "Mercurial"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "50",
+      "keywords": [
+        "N-Grams",
+        "NLP",
+        "Data Mining"
+      ]
+    },
+    {
+      "name": "IDEs/Editors",
+      "level": "80",
+      "keywords": [
+        "Eclipse",
+        "Visual Studio 6-2017",
+        "Sublime Text",
+        "vi/vim"
+      ]
+    },
+    {
+      "name": "OOP",
+      "level": "70",
+      "keywords": [
+        "Design Patterns",
+        "UML"
+      ]
+    },
+    {
+      "name": "XML",
+      "level": "70",
+      "keywords": [
+        "JAXB",
+        "XStream",
+        "XSD",
+        "XSDDoc",
+        "XJC"
+      ]
+    },
+    {
+      "name": "Networking and Telecoms",
+      "level": "70",
+      "keywords": [
+        "TCP/IP",
+        "SIP",
+        "UDP",
+        "Wireshark",
+        "PCap"
+      ]
+    },
+    {
+      "name": "Windows",
+      "level": "70",
+      "keywords": [
+        "MSI",
+        "WiX",
+        "maven-wix-plugin",
+        "Service Installers",
+        "YAJSW",
+        "MinGW",
+        "Visual Studio",
+        "Cygwin"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "50",
+      "keywords": [
+        "Apache",
+        "Tomcat",
+        "JQuery",
+        "JavaScript",
+        "Play 2",
+        "JAX-RS"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "interests": [],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Carlos Troncoso Alarcón - Nuance Communications",
+      "reference": "I had the privilege of working with Ellis and supervising his work during 2014 and 2015 at Nuance. Ellis is a hard-working person with strong engineering skills who takes pride in his work. He acquires new knowledge swiftly and is never afraid of dealing with the most daunting task with very little supervision. I saw him flourish when he was confronted with a project of massive proportions, where he had to start from zero and ended up designing an innovative, flexible and versatile state-of-the-art system.Ellis is passionate about human language technologies and eager to learn more and work on natural language processing. Apart from a brilliant engineer he is a great person, respectful and kind.I am very confident that he will be an asset to whatever company has the opportunity to hire him."
+    },
+    {
+      "name": "Kevin Mc Glone - AirWatch",
+      "reference": "Ellis is a focused, hard working individual who can be relied upon to get the job done. I wouldn't hesitate to recommend Ellis on both a personal and professional level."
+    },
+    {
+      "name": "Craig J Todd - Aylesbury Vale District Council",
+      "reference": "Ellis is a super-friendly and enthusiastic employee. He enjoys his work and gets on well with everyone in the office."
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "60"
+    },
+    {
+      "fluency": "40",
+      "language": "French"
     }
   ]
 }
