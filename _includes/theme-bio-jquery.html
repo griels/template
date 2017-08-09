@@ -9,7 +9,6 @@
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
 my_resume=document.getElementById("jsonresumeframe").contentWindow.document;
-$(my_resume).ready(function($) {
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
 	if (hash != "") {
@@ -26,5 +25,5 @@ $(my_resume).ready(function($) {
 			}
 		});
 	});
-});
+
 </script>
