@@ -12,12 +12,14 @@
     {% include bio-address.html %}
   </div>
 </div>
+<div id="my_resume></div>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>CV</title>
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script>
-$(document).ready(function($) {
+my_resume=document.getElementById("my_resume")
+$(my_resume).ready(function($) {
 
 	var theme = "{{ site.theme-name }}";
 	var hash = window.location.hash;
@@ -31,7 +33,7 @@ $(document).ready(function($) {
 			data: JSON.stringify({resume: data}, null, "  "),
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
-				document.write(html);
+				my_resume.write(html);
 			}
 		});
 	});
