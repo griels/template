@@ -34,7 +34,7 @@ $(my_resume).ready(function($) {
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
 				my_resume=document.getElementById("my_resume")
-				my_resume.write(html);
+				my_resume.innerHTML=html;
 			}
 		});
 	});
