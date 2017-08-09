@@ -1,25 +1,39 @@
-<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>CV</title>
-	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-	<script>
-	$(document).ready(function($) {
+<div style="margin-top: 10px; " class="ui stackable grid container">
 
-		var theme = "{{ site.theme-name }}";
-		var hash = window.location.hash;
-		if (hash != "") {
-			theme = hash.replace("#", "");
-		}
-		$.getJSON("../_data/bio.json", function(data) {
-			$.ajax({
-				type: "POST",
-				contentType: "application/json",
-				data: JSON.stringify({resume: data}, null, "  "),
-				url: "https://themes.jsonresume.org/" + theme,
-				success: function(html) {
-					document.write(html);
-				}
-			});
+  <div class="sixteen wide column no-bottom">
+    <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
+  </div>
+
+  <div class="eight wide left aligned column">
+    {% include bio-network-links.html %}
+  </div>
+
+  <div class="eight wide right aligned column">
+    {% include bio-address.html %}
+  </div>
+</div>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>CV</title>
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+$(document).ready(function($) {
+
+	var theme = "{{ site.theme-name }}";
+	var hash = window.location.hash;
+	if (hash != "") {
+		theme = hash.replace("#", "");
+	}
+	$.getJSON("../_data/bio.json", function(data) {
+		$.ajax({
+			type: "POST",
+			contentType: "application/json",
+			data: JSON.stringify({resume: data}, null, "  "),
+			url: "https://themes.jsonresume.org/" + theme,
+			success: function(html) {
+				document.write(html);
+			}
 		});
 	});
-	</script>
+});
+</script>
