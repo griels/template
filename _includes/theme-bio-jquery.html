@@ -5,7 +5,7 @@
 	<script>
 	$(document).ready(function($) {
 
-		var theme = {{ site.theme-name }};
+		var theme = "{{ site.theme-name }}";
 		var hash = window.location.hash;
 		if (hash != "") {
 			theme = hash.replace("#", "");
