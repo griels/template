@@ -14,7 +14,7 @@ $(my_resume).ready(function($) {
 	if (hash != "") {
 		theme = hash.replace("#", "");
 	}
-	$.getJSON("{{ bio-data-url }}", function(data) {
+	$.getJSON("{{ site.bio-data-url }}", function(data) {
 		$.ajax({
 			type: "POST",
 			contentType: "application/json",
