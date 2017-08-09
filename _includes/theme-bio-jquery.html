@@ -1,0 +1,49 @@
+<div style="margin-top: 10px; " class="ui stackable grid container">
+<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>CV</title>
+	<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script>
+	$(document).ready(function($) {
+		var theme = "flat";
+		var hash = window.location.hash;
+		if (hash != "") {
+			theme = hash.replace("#", "");
+		}
+		$.getJSON("json/resume.json", function(data) {
+			$.ajax({
+				type: "POST",
+				contentType: "application/json",
+				data: JSON.stringify({resume: data}, null, "  "),
+				url: "https://themes.jsonresume.org/" + theme,
+				success: function(html) {
+					document.write(html);
+				}
+			});
+		});
+	});
+	</script>
+  
+  <div class="sixteen wide column no-bottom">
+    <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
+  </div>
+
+  <div class="eight wide left aligned column">
+    {% include bio-network-links.html %}
+  </div>
+
+  <div class="eight wide right aligned column">
+    {% include bio-address.html %}
+  </div>
+</div>
+
+<div style="margin-bottom: 20px" class="ui stackable grid container">
+  {% include bio-interests-1.html %}
+  {% include bio-skills-1.html %}
+  {% include bio-education-1.html %}
+  {% include bio-work-1.html %}
+  {% include bio-volunteer-1.html %}
+  {% include bio-publications-1.html %}
+  {% include bio-awards-1.html %}
+  {% include bio-references-1.html %}
+</div>
