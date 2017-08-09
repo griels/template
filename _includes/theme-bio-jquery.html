@@ -21,7 +21,9 @@ my_resume=document.getElementById("jsonresumeframe").contentWindow.document;
 			data: JSON.stringify({resume: data}, null, "  "),
 			url: "https://themes.jsonresume.org/" + theme,
 			success: function(html) {
+				my_resume.open();
 				my_resume.write(html);
+				my_resume.close();
 			}
 		});
 	});
