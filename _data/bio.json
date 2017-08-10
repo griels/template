@@ -1,14 +1,15 @@
 {
   "basics": {
     "name": "Ellis Breen",
+    "website": "https://griels.github.io/portfolio",
     "email": "ellis.breen@gmail.com",
+    "picture": "https://griels.github.io/portfolio/images/ellis.jpg",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": "",
-      "picture": "../../capdecolla/14463938/png/dark_logo_transparent@2x.png"
+      "city": "Manchester",
+      "countryCode": "United Kingdom",
+      "region": ""
     },
     "profiles": []
   },
@@ -31,9 +32,9 @@
       "company": "Self",
       "website": "",
       "position": "Full Time Carer/Estate Executor",
-      "startDate": "2016-04-01",
+      "startDate": "2016-01-01",
       "endDate": "2017-01-01",
-      "summary": "Looking after my late mother and acting as an executor of her estate. Performed clearance and sale of property.",
+      "summary": "Looking after my late mother and acting as an executor of her estate.",
       "highlights": []
     },
     {
@@ -41,7 +42,7 @@
       "website": "https://www.nuance.com",
       "position": "Senior Software Engineer",
       "startDate": "2012-10-01",
-      "endDate": "2015-12-01",
+      "endDate": "2015-12-31",
       "summary": "Working for Nuance as a C++/Java/Python software developer and NLP research assistant.",
       "highlights": [
         "Developed tools for VoiceMail to Text (VM2T) research/professional services teams, to automate/streamline the service. Refactored complex legacy code to improve maintainability and readability.",
@@ -56,14 +57,14 @@
         "Enhanced/systematised text normalisation configuration files for Language Modelling team, providing hugely increased coverage. Professional Services team reported significant resultant customer-perceived improvements in quality.",
         "Rapidly developed Python code for various reporting, automation and processing jobs for VM2T to tight deadlines. Wrote structured OOP code based around existing formal APIs.",
         "Mentored colleagues unfamiliar with coding to solve problems in Java and Python, using pair-programming/TDD approach.",
-        "Seconded to language modelling team, following Agile/Sprint methodology. Deep analysis of existing code-bases for text processing/parse-graph manipulation to formulate more data-driven, declarative approach.",
-        "Refactored hard-coded behaviour into an high performance embedded compiler and runtime for a DSL based on Finite State Transducers, which are well-understood and easily manipulable data structures.",
+        "Seconded to language modelling team, following Agile/Sprint methodology. Deep analysis of existing C++ code-bases for text processing/parse-graph manipulation to formulate more data-driven, declarative approach.",
+        "Refactored/extended C++ code into high performance embedded compiler/runtime for a DSL based on Finite State Transducers, well-understood and easily manipulable data structures.",
         "Integrated this code into a system library which is used across many different Nuance products, including embedded devices such as mobile phones."
       ]
     },
     {
       "company": "Aculab",
-      "website": "https://www.aculab.com",
+      "website": "http://www.aculab.com",
       "position": "Software Engineer (Prosody S/TiNG/Cloud/Media Server)",
       "startDate": "2010-01-01",
       "endDate": "2012-10-01",
@@ -82,12 +83,20 @@
     },
     {
       "company": "Aculab",
-      "website": "https://www.aculab.com",
+      "website": "http://www.aculab.com",
       "position": "Software Engineer (Prosody S/TiNG)",
       "startDate": "2006-01-01",
       "endDate": "2012-10-01",
-      "summary": "Developing and maintaining test software for Aculab’s Prosody S/X speech processing/VoIP software/hardware, in a cross-platform (Linux/Windows) environment. Primarily using C++ in this role, employing VC6-VC2010 for authoring, with a Cygwin-based cross-platform build system and CVS. Involved extending and maintaining a highly object-oriented framework,consisting of VoIP/speech test case/scenario and foundation classes and templates (reused throughout the framework), designed to minimise the amount of coupling between components while being easy and intuitive to build upon. Made extensive usage of the STL (containers and algorithms).Administering a Buildbot (http://www.buildbot.net ) installation consisting of numerous Buildbot masters and slaves on Linux/Windows. This is used to build and run automatedtests and track results. Writing and maintaining numerous Perl/Python enhancements. Received training in a range of telecommunications subjects, including ISDN and VoIP protocols, as well as configuration/development APIs for Aculab products. Also familiarised with the configuration and installation of Aculab products on the Linux platform, building on existing expertise in this area.Took the initiative in the design of the tests, and also the configuration of Buildbot itself. An interest in declarative programming and Domain Specific Languages led to the design and production of a constraint-modelling library to facilitate the automatic generation of coverage test scenarios. A passion for lexical analysis and parsing encouraged the authoring of a number of tools for processing trace to ease the identification of issues, which led to an investigation of the Boost::Spirit parsing library - a template metaprogramming based library which achieves high performance with expressive syntax. A fascination with concurrency and real-time systems led to the invention of a scheduling algorithm to enhance the throughput of regression tests.",
-      "highlights": []
+      "summary": "Developing and maintaining test software for Aculab’s Prosody S/X speech processing/VoIP software/hardware, in a cross-platform (Linux/Windows) environment.",
+      "highlights": [
+        "Primarily using C++ in this role, employing VC6-VC2010 for authoring, with a Cygwin-based cross-platform build system and CVS. Involved extending and maintaining a highly object-oriented framework,consisting of VoIP/speech test case/scenario and foundation classes and templates (reused throughout the framework), designed to minimise the amount of coupling between components while being easy and intuitive to build upon. Made extensive usage of the STL (containers and algorithms).",
+        "Administering a Buildbot (http://www.buildbot.net ) installation consisting of numerous Buildbot masters and slaves on Linux/Windows. This is used to build and run automatedtests and track results. Writing and maintaining numerous Perl/Python enhancements.",
+        "Received training in a range of telecommunications subjects, including ISDN and VoIP protocols, as well as configuration/development APIs for Aculab products.",
+        "Also familiarised with the configuration and installation of Aculab products on the Linux platform, building on existing expertise in this area.Took the initiative in the design of the tests, and also the configuration of Buildbot itself.",
+        "An interest in declarative programming and Domain Specific Languages led to the design and production of a constraint-modelling library to facilitate the automatic generation of coverage test scenarios.",
+        "A passion for lexical analysis and parsing encouraged the authoring of a number of tools for processing trace to ease the identification of issues, which led to an investigation of the Boost::Spirit parsing library - a template metaprogramming based library which achieves high performance with expressive syntax.",
+        "A fascination with concurrency and real-time systems led to the invention of a scheduling algorithm to enhance the throughput of regression tests."
+      ]
     },
     {
       "company": "Nuance Communications",
@@ -95,8 +104,13 @@
       "position": "Research Assistant",
       "startDate": "2002-01-01",
       "endDate": "2005-09-01",
-      "summary": "Assisted with the production and preparation of custom TTS voices for the Nuance Vocalizer product, as well as numerous computational linguistics and phonetics projects. Designed and implemented a system for the optimisation of scripts for voice talents with regards to coverage and storage requirements.Extensive use of Perl, C++, regular expressions, BASH scripting.",
-      "highlights": []
+      "summary": "Working for the TTS department as an annotator/developer/research assistant",
+      "highlights": [
+        "Assisted with the production and preparation of custom TTS voices for the Nuance Vocalizer product",
+        "Assisted with numerous computational linguistics and phonetics projects",
+        "Designed and implemented a system for the optimisation of scripts for voice talents with regards to coverage and storage requirements.",
+        "Extensive use of Perl, C++, regular expressions, BASH scripting."
+      ]
     },
     {
       "company": "Segmentis",
@@ -115,7 +129,7 @@
       "courses": [],
       "startDate": "1997-01-01",
       "endDate": "2000-01-01",
-      "area": "",
+      "area": "Computer Science",
       "studyType": "BSc Hons"
     },
     {
@@ -124,8 +138,8 @@
       "courses": [],
       "startDate": "2010-01-01",
       "endDate": "2010-01-01",
-      "area": "",
-      "studyType": ""
+      "area": "Pure Data audiovisual production",
+      "studyType": "Pure Data/OpenCV"
     },
     {
       "institution": "Norwich School",
@@ -133,8 +147,8 @@
       "courses": [],
       "startDate": "1988-01-01",
       "endDate": "1994-01-01",
-      "area": "",
-      "studyType": ""
+      "area": "STEM/Languages",
+      "studyType": "GCSEs/A-Levels"
     }
   ],
   "skills": [
@@ -353,10 +367,10 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "60"
+      "fluency": "Conversant"
     },
     {
-      "fluency": "40",
+      "fluency": "Literate",
       "language": "French"
     }
   ]
