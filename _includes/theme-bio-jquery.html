@@ -14,7 +14,7 @@ my_resume=document.querySelector('div[id="my_resume"]');
 	if (hash != "") {
 		theme = hash.replace("#", "");
 	}
-	$.getJSON("{{ site.bio-data-url }}", function(data) {
+	$.getJSON("../{{ site.bio-data-url }}", function(data) {
 		$.ajax({
 			type: "POST",
 			contentType: "application/json",
