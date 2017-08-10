@@ -1,0 +1,401 @@
+{
+  "name": "Ellis Breen",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Manchester",
+    "region": "",
+    "country": "United Kingdom",
+    "code": "",
+    "address": ""
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Research and development",
+        "employer": "CapDeColla",
+        "summary": "Working on a cutting-edge realtime SaaS proof-of-concept for potential licensing/startup creation.",
+        "current": true,
+        "start": "2016-09-01",
+        "end": "",
+        "url": "https://capdecolla.com",
+        "keywords": [],
+        "highlights": [
+          "Studying Data Science/Machine Learning/NLP",
+          "Learning Xamarin, iOS and Android development",
+          "AWS, Google Cloud and Azure Platform",
+          "NumPy, SciPy and scikit-learn"
+        ]
+      },
+      {
+        "position": "Full Time Carer/Estate Executor",
+        "employer": "Self",
+        "summary": "Looking after my late mother and acting as an executor of her estate.",
+        "start": "2016-01-01",
+        "end": "2017-01-01",
+        "url": "",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "position": "Senior Software Engineer",
+        "employer": "Nuance Communications",
+        "summary": "Working for Nuance as a C++/Java/Python software developer and NLP research assistant.",
+        "start": "2012-10-01",
+        "end": "2015-12-31",
+        "url": "https://www.nuance.com",
+        "keywords": [],
+        "highlights": [
+          "Developed tools for VoiceMail to Text (VM2T) research/professional services teams, to automate/streamline the service. Refactored complex legacy code to improve maintainability and readability.",
+          "Ported complex legacy C++ project to a highly performant, maintainable and reliable Java component, processing several million Voicemail messages daily.",
+          "Extended, updated and documented (internally with XSDDoc annotations, and externally) existing XSD Schema to reflect refactored configuration files.",
+          "Used JAXB/Maven XJC plugins, wrote marshaller pool and collaborated on caching mechanism for XML serialisation",
+          "Used TDD, with JUnit, Hamcrest, and Mockito. Wrote comprehensive functional test suite using Java 8 features.",
+          "Configured Bamboo/Jenkins to build using Maven configuration.",
+          "Used custom Doclet extension for JavaDoc to produce attractive HTML/PDF XML file format documentation.",
+          "Integrated component into large-scale SOAP/XML-based distributed voicemail processing system; updated Spring based code to integrate new component/startup checks/functional tests",
+          "Used N-gram and RNN based models for selection/processing of appropriate text corpora in numerous languages/dialects.",
+          "Enhanced/systematised text normalisation configuration files for Language Modelling team, providing hugely increased coverage. Professional Services team reported significant resultant customer-perceived improvements in quality.",
+          "Rapidly developed Python code for various reporting, automation and processing jobs for VM2T to tight deadlines. Wrote structured OOP code based around existing formal APIs.",
+          "Mentored colleagues unfamiliar with coding to solve problems in Java and Python, using pair-programming/TDD approach.",
+          "Seconded to language modelling team, following Agile/Sprint methodology. Deep analysis of existing C++ code-bases for text processing/parse-graph manipulation to formulate more data-driven, declarative approach.",
+          "Refactored/extended C++ code into high performance embedded compiler/runtime for a DSL based on Finite State Transducers, well-understood and easily manipulable data structures.",
+          "Integrated this code into a system library which is used across many different Nuance products, including embedded devices such as mobile phones."
+        ]
+      },
+      {
+        "position": "Software Engineer (Prosody S/TiNG/Cloud/Media Server)",
+        "employer": "Aculab",
+        "summary": "Software development, systems administration and testing.",
+        "start": "2010-01-01",
+        "end": "2012-10-01",
+        "url": "http://www.aculab.com",
+        "keywords": [],
+        "highlights": [
+          "Designed and developed a test suite for a C# API library for a new high-level VoIP/IVR system, using idiomatic language constructs such as the IDisposable interface, thread pools, lambda functions, delegates, generics, parallel tasks, and interop functionality.",
+          "Implemented a counterpart Java API library for the same VoIP/IVR system, having set up a corresponding test suite/documentation system, using JUnit, JavaDoc, Ant and Eclipse and the Jenkins Continuous Integration platform, running on Apache Tomcat. ",
+          "Wrote doclet code to generate XML and JavaScript/JQuery code to process this output into documentation web pages for the API. ",
+          "Authored Maven build configuration files for compilation, packaging, documentation, obfuscation (with ProGuard) and deployment.",
+          "Employed a test-driven development approach from the outset, ensuring correct behaviour throughout the evolution of the library. ",
+          "Modified and ported YAJSW (Yet Another Java Service Wrapper) to the Maven Build system to facilitate cross platform service installation for the UAS Launcher (for running Aculab Cloud applications). ",
+          "Created an automated MSI packaging process using WiX and the maven-wix-plugin.",
+          "Coordinated development roles within our test framework software, ensuring interface changes were correctly addressed by affected developers. ",
+          "Wrote test specs (using UML and other notation) and reports. An interest in formal methods and expressive, readable code has resulted in thorough, easy to maintain tests which help to ensure that Aculab’s telecommunications products remain robust."
+        ]
+      },
+      {
+        "position": "Software Engineer (Prosody S/TiNG)",
+        "employer": "Aculab",
+        "summary": "Developing and maintaining test software for Aculab’s Prosody S/X speech processing/VoIP software/hardware, in a cross-platform (Linux/Windows) environment.",
+        "start": "2006-01-01",
+        "end": "2012-10-01",
+        "url": "http://www.aculab.com",
+        "keywords": [],
+        "highlights": [
+          "Primarily using C++ in this role, employing VC6-VC2010 for authoring, with a Cygwin-based cross-platform build system and CVS. Involved extending and maintaining a highly object-oriented framework,consisting of VoIP/speech test case/scenario and foundation classes and templates (reused throughout the framework), designed to minimise the amount of coupling between components while being easy and intuitive to build upon. Made extensive usage of the STL (containers and algorithms).",
+          "Administering a Buildbot (http://www.buildbot.net ) installation consisting of numerous Buildbot masters and slaves on Linux/Windows. This is used to build and run automatedtests and track results. Writing and maintaining numerous Perl/Python enhancements.",
+          "Received training in a range of telecommunications subjects, including ISDN and VoIP protocols, as well as configuration/development APIs for Aculab products.",
+          "Also familiarised with the configuration and installation of Aculab products on the Linux platform, building on existing expertise in this area.Took the initiative in the design of the tests, and also the configuration of Buildbot itself.",
+          "An interest in declarative programming and Domain Specific Languages led to the design and production of a constraint-modelling library to facilitate the automatic generation of coverage test scenarios.",
+          "A passion for lexical analysis and parsing encouraged the authoring of a number of tools for processing trace to ease the identification of issues, which led to an investigation of the Boost::Spirit parsing library - a template metaprogramming based library which achieves high performance with expressive syntax.",
+          "A fascination with concurrency and real-time systems led to the invention of a scheduling algorithm to enhance the throughput of regression tests."
+        ]
+      },
+      {
+        "position": "Research Assistant",
+        "employer": "Nuance Communications",
+        "summary": "Working for the TTS department as an annotator/developer/research assistant",
+        "start": "2002-01-01",
+        "end": "2005-09-01",
+        "url": "https://www.nuance.com",
+        "keywords": [],
+        "highlights": [
+          "Assisted with the production and preparation of custom TTS voices for the Nuance Vocalizer product",
+          "Assisted with numerous computational linguistics and phonetics projects",
+          "Designed and implemented a system for the optimisation of scripts for voice talents with regards to coverage and storage requirements.",
+          "Extensive use of Perl, C++, regular expressions, BASH scripting."
+        ]
+      },
+      {
+        "position": "Research Assistant",
+        "employer": "Segmentis",
+        "summary": "Exploring the uses of a novel image processing algorithm, using Photoshop and various scripting techniques.",
+        "start": "1999-6-01",
+        "end": "1999-10-01",
+        "url": "",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "a1lab",
+        "start": "2010-01-01",
+        "end": "2010-01-01",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Pure Data audiovisual production",
+        "studyType": "Pure Data/OpenCV"
+      },
+      {
+        "institution": "University of East Anglia",
+        "start": "1997-01-01",
+        "end": "2000-01-01",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Computer Science",
+        "studyType": "BSc Hons"
+      },
+      {
+        "institution": "Norwich School",
+        "start": "1988-01-01",
+        "end": "1994-01-01",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "STEM/Languages",
+        "studyType": "GCSEs/A-Levels"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "C/C++",
+        "level": "80",
+        "skills": [
+          "Boost Template Library",
+          "STL",
+          "Templates"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "80",
+        "skills": [
+          "Javadoc",
+          "Ant",
+          "Maven",
+          "JAXB",
+          "Spring",
+          "Java 8",
+          "Streams",
+          "Functional"
+        ]
+      },
+      {
+        "name": "C#",
+        "level": "",
+        "skills": [
+          "C# Native Interoperability",
+          "LINQ"
+        ]
+      },
+      {
+        "name": "Scripting",
+        "level": "75",
+        "skills": [
+          "Perl",
+          "Python",
+          "Bash"
+        ]
+      },
+      {
+        "name": "Concurrency",
+        "level": "80",
+        "skills": [
+          "Multithreading",
+          "Asynchronous Programming",
+          "Atomic Data Structures",
+          "Thread Synchronisation",
+          "Thread Pools",
+          "Messaging",
+          "State Management",
+          "Persistent Data Structures"
+        ]
+      },
+      {
+        "name": "Algorithms",
+        "level": "75",
+        "skills": [
+          "STL",
+          "Java Collections",
+          "Finite State Machines",
+          "Finite State Transducers",
+          "C++",
+          "Profiling"
+        ]
+      },
+      {
+        "name": "Profiling/Debugging",
+        "level": "80",
+        "skills": [
+          "Valgrind",
+          "OProf",
+          "GProf",
+          "GDB",
+          "Eclipse CDT",
+          "CDB",
+          "GlowCode",
+          "Visual Studio"
+        ]
+      },
+      {
+        "name": "Test Driven Development",
+        "level": "70",
+        "skills": [
+          "JUnit",
+          "NUnit",
+          "Google Test",
+          "Hamcrest",
+          "Mockito"
+        ]
+      },
+      {
+        "name": "Continuous Integration",
+        "level": "80",
+        "skills": [
+          "Jenkins/Hudson",
+          "BuildBot",
+          "Bamboo"
+        ]
+      },
+      {
+        "name": "Unix",
+        "level": "80",
+        "skills": [
+          "MacOS",
+          "Linux",
+          "BASH",
+          "Makefiles"
+        ]
+      },
+      {
+        "name": "Version Control",
+        "level": "70",
+        "skills": [
+          "Git",
+          "GitHub",
+          "SVN",
+          "Perforce",
+          "Mercurial"
+        ]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "level": "50",
+        "skills": [
+          "N-Grams",
+          "NLP",
+          "Data Mining"
+        ]
+      },
+      {
+        "name": "IDEs/Editors",
+        "level": "80",
+        "skills": [
+          "Eclipse",
+          "Visual Studio 6-2017",
+          "Sublime Text",
+          "vi/vim"
+        ]
+      },
+      {
+        "name": "OOP",
+        "level": "70",
+        "skills": [
+          "Design Patterns",
+          "UML"
+        ]
+      },
+      {
+        "name": "XML",
+        "level": "70",
+        "skills": [
+          "JAXB",
+          "XStream",
+          "XSD",
+          "XSDDoc",
+          "XJC"
+        ]
+      },
+      {
+        "name": "Networking and Telecoms",
+        "level": "70",
+        "skills": [
+          "TCP/IP",
+          "SIP",
+          "UDP",
+          "Wireshark",
+          "PCap"
+        ]
+      },
+      {
+        "name": "Windows",
+        "level": "70",
+        "skills": [
+          "MSI",
+          "WiX",
+          "maven-wix-plugin",
+          "Service Installers",
+          "YAJSW",
+          "MinGW",
+          "Visual Studio",
+          "Cygwin"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "level": "50",
+        "skills": [
+          "Apache",
+          "Tomcat",
+          "JQuery",
+          "JavaScript",
+          "Play 2",
+          "JAX-RS"
+        ]
+      }
+    ]
+  },
+  "social": [],
+  "interests": [],
+  "testimonials": [
+    {
+      "name": "Carlos Troncoso Alarcón - Nuance Communications",
+      "flavor": "professional",
+      "quote": "I had the privilege of working with Ellis and supervising his work during 2014 and 2015 at Nuance. Ellis is a hard-working person with strong engineering skills who takes pride in his work. He acquires new knowledge swiftly and is never afraid of dealing with the most daunting task with very little supervision. I saw him flourish when he was confronted with a project of massive proportions, where he had to start from zero and ended up designing an innovative, flexible and versatile state-of-the-art system.Ellis is passionate about human language technologies and eager to learn more and work on natural language processing. Apart from a brilliant engineer he is a great person, respectful and kind.I am very confident that he will be an asset to whatever company has the opportunity to hire him.",
+      "private": false
+    },
+    {
+      "name": "Kevin Mc Glone - AirWatch",
+      "flavor": "professional",
+      "quote": "Ellis is a focused, hard working individual who can be relied upon to get the job done. I wouldn't hesitate to recommend Ellis on both a personal and professional level.",
+      "private": false
+    },
+    {
+      "name": "Craig J Todd - Aylesbury Vale District Council",
+      "flavor": "professional",
+      "quote": "Ellis is a super-friendly and enthusiastic employee. He enjoys his work and gets on well with everyone in the office.",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Conversant"
+    },
+    {
+      "fluency": "Literate",
+      "language": "French"
+    }
+  ]
+}

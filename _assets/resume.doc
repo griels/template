@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core"
+	xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+	xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+	xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+	xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+	xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2"
+	xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core"
+	w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no"
+	xml:space="preserve">
+  <w:ignoreSubtree
+	w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2" />
+  <o:DocumentProperties>
+    <o:Title>Resume for Ellis Breen</o:Title>
+    <o:Author>Ellis Breen</o:Author>
+    <o:Keywords>resume;CV</o:Keywords>
+    <o:LastAuthor>Ellis Breen</o:LastAuthor>
+    <o:Revision>1</o:Revision>
+    <o:TotalTime>60</o:TotalTime>
+    <o:Created>2015-12-16T17:38:00Z</o:Created>
+    <o:LastSaved>2015-12-16T18:32:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>241</o:Words>
+    <o:Characters>1379</o:Characters>
+    <o:Lines>11</o:Lines>
+    <o:Paragraphs>3</o:Paragraphs>
+    <o:CharactersWithSpaces>1617</o:CharactersWithSpaces>
+    <o:Version>15</o:Version>
+  </o:DocumentProperties>
+  
+  <w:fonts>
+    <w:defaultFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="02020603050405020304"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Roman"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000"/>
+    </w:font>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="020F0502020204030204"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Swiss"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="A00002EF" w:usb-1="4000207B" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="0000009F" w:csb-1="00000000"/>
+    </w:font>
+  
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="602C53DD"/>
+      <w:plt w:val="HybridMultilevel"/>
+      <w:tmpl w:val="61849B8C"/>
+      <w:lvl w:ilvl="0" w:tplc="DD7ED086">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="•"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="720" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="1440" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2160" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2880" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="3600" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="4320" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5040" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5760" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="6480" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="1"/>
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal"/>
+      <w:rsid w:val="002743C8"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:pPr>
+        <w:jc w:val="both"/>
+      </w:pPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading1">
+      <w:name w:val="heading 1"/>
+      <wx:uiName wx:val="Heading 1"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading1Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on"/>
+        <w:outlineLvl w:val="0"/>
+        <w:pBdr>
+          <w:top w:val="single" w:sz="6" w:space="1" w:color="EEEEEE" />
+        </w:pBdr>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading2">
+      <w:name w:val="heading 2"/>
+      <wx:uiName wx:val="Heading 2"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading2Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+        <w:outlineLvl w:val="1"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading3">
+      <w:name w:val="heading 3"/>
+      <wx:uiName wx:val="Heading 3"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading3Char"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="100" w:after-autospacing="on"/>
+        <w:outlineLvl w:val="2"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font"/>
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table"/>
+      <wx:uiName wx:val="Table Normal"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List"/>
+    </w:style>
+    <w:style w:type="character" w:styleId="Hyperlink">
+      <w:name w:val="Hyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="0064BD"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="FollowedHyperlink">
+      <w:name w:val="FollowedHyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="7B0796"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading2Char">
+      <w:name w:val="Heading 2 Char"/>
+      <w:link w:val="Heading2"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading3Char">
+      <w:name w:val="Heading 3 Char"/>
+      <w:link w:val="Heading3"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+        <w:color w:val="1F4D78"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="NormalWeb">
+      <w:name w:val="Normal (Web)"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading1Char">
+      <w:name w:val="Heading 1 Char"/>
+      <w:link w:val="Heading1"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Strong">
+      <w:name w:val="Strong"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Emphasis">
+      <w:name w:val="Emphasis"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:i/>
+        <w:i-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="tenure">
+      <w:name w:val="tenure"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:rsid w:val="001B7422"/>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Title">
+      <w:name w:val="Title"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="TitleChar"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:pPr>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="TitleChar">
+      <w:name w:val="Title Char"/>
+      <w:link w:val="Title"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="ListParagraph">
+      <w:name w:val="List Paragraph"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="00C146CA"/>
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Summary">
+      <w:name w:val="Summary"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="SummaryChar"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:color w:val="767171"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="SummaryChar">
+      <w:name w:val="Summary Char"/>
+      <w:link w:val="Summary"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:sz w:val="24"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:docPr>
+    <w:view w:val="print"/>
+    <w:zoom w:percent="98"/>
+    <w:doNotEmbedSystemFonts/>
+    <w:defaultTabStop w:val="720"/>
+    <w:characterSpacingControl w:val="DontCompress"/>
+    <w:webPageEncoding w:val="unicode"/>
+    <w:optimizeForBrowser/>
+    <w:allowPNG/>
+    <w:validateAgainstSchema/>
+    <w:saveInvalidXML w:val="off"/>
+    <w:ignoreMixedContent w:val="off"/>
+    <w:alwaysShowPlaceholderText w:val="off"/>
+    <w:compat>
+      <w:breakWrappedTables/>
+    </w:compat>
+    <wsp:rsids>
+      <wsp:rsidRoot wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="000A3AF0"/>
+      <wsp:rsid wsp:val="001B7422"/>
+      <wsp:rsid wsp:val="002743C8"/>
+      <wsp:rsid wsp:val="002865F0"/>
+      <wsp:rsid wsp:val="002D3B7B"/>
+      <wsp:rsid wsp:val="00397D4D"/>
+      <wsp:rsid wsp:val="00437135"/>
+      <wsp:rsid wsp:val="00505903"/>
+      <wsp:rsid wsp:val="00606071"/>
+      <wsp:rsid wsp:val="006C2CFB"/>
+      <wsp:rsid wsp:val="00771B3E"/>
+      <wsp:rsid wsp:val="007D096C"/>
+      <wsp:rsid wsp:val="009452CA"/>
+      <wsp:rsid wsp:val="00A210E1"/>
+      <wsp:rsid wsp:val="00B43FDC"/>
+      <wsp:rsid wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="00C77315"/>
+      <wsp:rsid wsp:val="00CD3781"/>
+      <wsp:rsid wsp:val="00E578D4"/>
+      <wsp:rsid wsp:val="00EA0B64"/>
+      <wsp:rsid wsp:val="00FE101B"/>
+    </wsp:rsids>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="007D096C" wsp:rsidP="00C146CA">
+        <w:pPr>
+          <w:pStyle w:val="Title" />
+          <w:tabs>
+            <w:tab w:val="right" w:pos="9360" />
+          </w:tabs>
+        </w:pPr>
+        <w:r>
+          <w:t>Ellis Breen</w:t>
+        </w:r>
+        <w:r>
+          <w:tab />
+        </w:r>
+        <w:hlink w:dest="mailto:ellis.breen@gmail.com">
+          <w:r wsp:rsidRPr="003876BF">
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+              <w:sz-cs w:val="20" />
+            </w:rPr>
+            <w:t>ellis.breen@gmail.com</w:t>
+          </w:r>
+        </w:hlink>
+        <w:r>
+          <w:rPr>
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t> - </w:t>
+        </w:r>
+        <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0">
+          <w:rPr>
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t></w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:sz-cs w:val="20" />
+          </w:rPr>
+          <w:t> - </w:t>
+        </w:r>
+        <w:hlink w:dest="https://griels.github.io/portfolio">
+          <w:r wsp:rsidRPr="003876BF">
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink" />
+              <w:sz-cs w:val="20" />
+            </w:rPr>
+            <w:t>griels.github.io/portfolio</w:t>
+          </w:r>
+        </w:hlink>
+      </w:p>
+      
+<wx:sub-section>
+
+<w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA"
+	wsp:rsidP="00C146CA">
+                <w:keepNext />
+    <w:pStyle w:val="Heading1" />
+  <w:r wsp:rsidRPr="00C146CA">
+  
+                <w:keepNext />
+    <w:t></w:t>
+  </w:r>
+</w:p>
+
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Research and development, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://capdecolla.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+                <w:keepNext />
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t>CapDeColla</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Sep 2016 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Working on a cutting-edge realtime SaaS proof-of-concept for potential licensing/startup creation.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Studying Data Science/Machine Learning/NLP</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Learning Xamarin, iOS and Android development</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>AWS, Google Cloud and Azure Platform</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>NumPy, SciPy and scikit-learn</w:t></w:r>
+
+    </w:p>
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Full Time Carer/Estate Executor, </w:t>
+      </w:r>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Self</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Jan 2016 — Jan 2017</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Looking after my late mother and acting as an executor of her estate.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Software Engineer, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.nuance.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+                <w:keepNext />
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t>Nuance Communications</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Oct 2012 — Dec 2015</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Working for Nuance as a C++/Java/Python software developer and NLP research assistant.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed tools for VoiceMail to Text (VM2T) research/professional services teams, to automate/streamline the service. Refactored complex legacy code to improve maintainability and readability.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Ported complex legacy C++ project to a highly performant, maintainable and reliable Java component, processing several million Voicemail messages daily.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Extended, updated and documented (internally with XSDDoc annotations, and externally) existing XSD Schema to reflect refactored configuration files.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Used JAXB/Maven XJC plugins, wrote marshaller pool and collaborated on caching mechanism for XML serialisation</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Used TDD, with JUnit, Hamcrest, and Mockito. Wrote comprehensive functional test suite using Java 8 features.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Configured Bamboo/Jenkins to build using Maven configuration.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Used custom Doclet extension for JavaDoc to produce attractive HTML/PDF XML file format documentation.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Integrated component into large-scale SOAP/XML-based distributed voicemail processing system; updated Spring based code to integrate new component/startup checks/functional tests</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Used N-gram and RNN based models for selection/processing of appropriate text corpora in numerous languages/dialects.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Enhanced/systematised text normalisation configuration files for Language Modelling team, providing hugely increased coverage. Professional Services team reported significant resultant customer-perceived improvements in quality.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Rapidly developed Python code for various reporting, automation and processing jobs for VM2T to tight deadlines. Wrote structured OOP code based around existing formal APIs.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Mentored colleagues unfamiliar with coding to solve problems in Java and Python, using pair-programming/TDD approach.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Seconded to language modelling team, following Agile/Sprint methodology. Deep analysis of existing C++ code-bases for text processing/parse-graph manipulation to formulate more data-driven, declarative approach.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Refactored/extended C++ code into high performance embedded compiler/runtime for a DSL based on Finite State Transducers, well-understood and easily manipulable data structures.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Integrated this code into a system library which is used across many different Nuance products, including embedded devices such as mobile phones.</w:t></w:r>
+
+    </w:p>
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Software Engineer (Prosody S/TiNG/Cloud/Media Server), </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.aculab.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+                <w:keepNext />
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t>Aculab</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Jan 2010 — Oct 2012</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Software development, systems administration and testing.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed a test suite for a C# API library for a new high-level VoIP/IVR system, using idiomatic language constructs such as the IDisposable interface, thread pools, lambda functions, delegates, generics, parallel tasks, and interop functionality.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Implemented a counterpart Java API library for the same VoIP/IVR system, having set up a corresponding test suite/documentation system, using JUnit, JavaDoc, Ant and Eclipse and the Jenkins Continuous Integration platform, running on Apache Tomcat.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Wrote doclet code to generate XML and JavaScript/JQuery code to process this output into documentation web pages for the API.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Authored Maven build configuration files for compilation, packaging, documentation, obfuscation (with ProGuard) and deployment.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Employed a test-driven development approach from the outset, ensuring correct behaviour throughout the evolution of the library.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Modified and ported YAJSW (Yet Another Java Service Wrapper) to the Maven Build system to facilitate cross platform service installation for the UAS Launcher (for running Aculab Cloud applications).</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Created an automated MSI packaging process using WiX and the maven-wix-plugin.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Coordinated development roles within our test framework software, ensuring interface changes were correctly addressed by affected developers.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Wrote test specs (using UML and other notation) and reports. An interest in formal methods and expressive, readable code has resulted in thorough, easy to maintain tests which help to ensure that Aculab’s telecommunications products remain robust.</w:t></w:r>
+
+    </w:p>
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Software Engineer (Prosody S/TiNG), </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.aculab.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+                <w:keepNext />
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t>Aculab</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Jan 2006 — Oct 2012</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developing and maintaining test software for Aculab’s Prosody S/X speech processing/VoIP software/hardware, in a cross-platform (Linux/Windows) environment.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Primarily using C++ in this role, employing VC6-VC2010 for authoring, with a Cygwin-based cross-platform build system and CVS. Involved extending and maintaining a highly object-oriented framework,consisting of VoIP/speech test case/scenario and foundation classes and templates (reused throughout the framework), designed to minimise the amount of coupling between components while being easy and intuitive to build upon. Made extensive usage of the STL (containers and algorithms).</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Administering a Buildbot (</w:t></w:r><w:hlink w:dest="http://www.buildbot.net"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>http://www.buildbot.net</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> ) installation consisting of numerous Buildbot masters and slaves on Linux/Windows. This is used to build and run automatedtests and track results. Writing and maintaining numerous Perl/Python enhancements.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Received training in a range of telecommunications subjects, including ISDN and VoIP protocols, as well as configuration/development APIs for Aculab products.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Also familiarised with the configuration and installation of Aculab products on the Linux platform, building on existing expertise in this area.Took the initiative in the design of the tests, and also the configuration of Buildbot itself.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>An interest in declarative programming and Domain Specific Languages led to the design and production of a constraint-modelling library to facilitate the automatic generation of coverage test scenarios.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>A passion for lexical analysis and parsing encouraged the authoring of a number of tools for processing trace to ease the identification of issues, which led to an investigation of the Boost::Spirit parsing library - a template metaprogramming based library which achieves high performance with expressive syntax.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>A fascination with concurrency and real-time systems led to the invention of a scheduling algorithm to enhance the throughput of regression tests.</w:t></w:r>
+
+    </w:p>
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Research Assistant, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.nuance.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+                <w:keepNext />
+            <w:rStyle w:val="Hyperlink" />
+          </w:rPr>
+          <w:t>Nuance Communications</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Jan 2002 — Sep 2005</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Working for the TTS department as an annotator/developer/research assistant</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Assisted with the production and preparation of custom TTS voices for the Nuance Vocalizer product</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Assisted with numerous computational linguistics and phonetics projects</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and implemented a system for the optimisation of scripts for voice talents with regards to coverage and storage requirements.</w:t></w:r>
+
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA"
+	wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="ListParagraph" />
+        <w:listPr>
+          <w:ilvl w:val="0" />
+          <w:ilfo w:val="1" />
+          <wx:t wx:val="•" />
+          <wx:font wx:val="Calibri" />
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Extensive use of Perl, C++, regular expressions, BASH scripting.</w:t></w:r>
+
+    </w:p>
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+  <wx:sub-section>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"
+	wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+                <w:keepNext />
+        <w:pStyle w:val="Heading2" />
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360" />
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Research Assistant, </w:t>
+      </w:r>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Segmentis</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab />
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+                <w:keepNext />
+          <w:rStyle w:val="FromTo" />
+        </w:rPr>
+        <w:t>Jun 1999 — Oct 1999</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"
+	wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+                <w:keepNext />
+        <w:rPr>
+          <w:sz-cs w:val="20" />
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Exploring the uses of a novel image processing algorithm, using Photoshop and various scripting techniques.</w:t></w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+<!--<w:p><w:pPr><w:sectPr>
+  <w:type w:val=”continuous”/>
+  </w:sectPr>
+  </w:pPr>
+  </w:p>-->
+  <w:p>
+  <w:r>
+    <w:lastRenderedPageBreak />
+    </w:r>
+</w:p>
+
+</wx:sub-section>
+
+      
+      
+      
+      <wx:sub-section>
+
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>EDUCATION</w:t>
+    </w:r>
+  </w:p>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>University of East Anglia</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>1997 — 2000</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, BSc Hons</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>a1lab</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2010 — 2010</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Pure Data audiovisual production, Pure Data/OpenCV</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Norwich School</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>1988 — 1994</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>STEM/Languages, GCSEs/A-Levels</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      <wx:sub-section>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>SKILLS</w:t>
+    </w:r>
+  </w:p>
+  <w:tbl>
+    <w:tblPr>
+      <w:tblW w:w="0" w:type="auto"/>
+      <w:tblLook w:val="04A0"/>
+    </w:tblPr>
+    <w:tblGrid>
+      <w:gridCol w:w="3000"/>
+      <w:gridCol w:w="8000"/>
+    </w:tblGrid>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>C/C++:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Boost Template Library, STL, Templates</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Java:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Javadoc, Ant, Maven, JAXB, Spring, Java 8, Streams, Functional</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>C#:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>C# Native Interoperability, LINQ</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Scripting:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Perl, Python, Bash</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Concurrency:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Multithreading, Asynchronous Programming, Atomic Data Structures, Thread Synchronisation, Thread Pools, Messaging, State Management, Persistent Data Structures</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Algorithms:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>STL, Java Collections, Finite State Machines, Finite State Transducers, C++, Profiling</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Profiling/Debugging:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Valgrind, OProf, GProf, GDB, Eclipse CDT, CDB, GlowCode, Visual Studio</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Test Driven Development:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>JUnit, NUnit, Google Test, Hamcrest, Mockito</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Continuous Integration:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Jenkins/Hudson, BuildBot, Bamboo</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Unix:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>MacOS, Linux, BASH, Makefiles</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Version Control:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Git, GitHub, SVN, Perforce, Mercurial</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Artificial Intelligence:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>N-Grams, NLP, Data Mining</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>IDEs/Editors:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Eclipse, Visual Studio 6-2017, Sublime Text, vi/vim</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>OOP:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Design Patterns, UML</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>XML:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>JAXB, XStream, XSD, XSDDoc, XJC</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Networking and Telecoms:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>TCP/IP, SIP, UDP, Wireshark, PCap</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Windows:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>MSI, WiX, maven-wix-plugin, Service Installers, YAJSW, MinGW, Visual Studio, Cygwin</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Web Development:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Apache, Tomcat, JQuery, JavaScript, Play 2, JAX-RS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+  </w:tbl>
+</wx:sub-section>
+
+
+      
+      
+      
+      
+      
+      
+      
+      <w:sectPr wsp:rsidR="00B43FDC" wsp:rsidRPr="000A3AF0"
+	wsp:rsidSect="001B7422">
+        <w:pgSz w:w="12240" w:h="15840" />
+        <w:pgMar w:top="1440" w:right="1440" w:bottom="1440"
+	w:left="1440" w:header="720" w:footer="720" w:gutter="0" />
+        <w:cols w:space="720" />
+        <w:docGrid w:line-pitch="360" />
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>
