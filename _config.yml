@@ -11,7 +11,7 @@ baseurl: "/portfolio"
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
 bio-page-label: Resume
-bio-data-url: https://griels.github.io/Resume/resume-jrs.json
+bio-data-url: _data/bio.json
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-name: material
